@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="natives-windows">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/slick2D/natives-windows.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
